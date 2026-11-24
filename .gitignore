@@ -1,0 +1,17 @@
+# secrets
+.env
+*.pem
+*.key
+
+# generated data (rebuild with scripts/make_sample_data.py)
+sample_data/
+data/
+*.parquet
+*.log
+*.log.err
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
