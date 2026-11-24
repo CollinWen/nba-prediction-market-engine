@@ -1,0 +1,13 @@
+{
+  "_note": "Illustrative parameters for the public example strategy. Not the tuned research values.",
+  "entry_edge": 0.08,
+  "exit_edge": 0.03,
+  "tp_cents": 0.10,
+  "sl_cents": 0.10,
+  "max_hold_secs": 300,
+  "cooldown_secs": 60.0,
+  "entry_max_secs": 2880,
+  "min_period": 1,
+  "max_period": 5,
+  "spread_cost": 0.01
+}
